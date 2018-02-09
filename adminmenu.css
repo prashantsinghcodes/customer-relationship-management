@@ -1,0 +1,25 @@
+ul
+{
+    padding-top: 8px;
+   margin-bottom: 1px;
+}
+ul li
+{
+   
+      width:80px;
+      
+    background:orange;
+    display:inline-block;
+    margin-left:5px;
+  padding-bottom:5px;
+  border-radius:6px;
+  padding-left: 30px;
+  
+}
+ul li a
+{
+    text-decoration: none;
+    font-size:10px;
+    text-align: center;
+    
+}
